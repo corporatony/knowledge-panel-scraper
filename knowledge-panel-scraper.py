@@ -12,7 +12,7 @@ headers_Get = {
     }
 
 html_tags = {
-    'knowledge_panel': 'kp-blk knowledge-panel',
+    'knowledge_panel': 'kp-blk knowledge-panel Wnoohf OJXvsb',
     'claimed': "Own this business?",
     'name': "kno-ecr-pt kno-fb-ctx",
     'phone': 'LrzXr zdqRlf kno-fv',
